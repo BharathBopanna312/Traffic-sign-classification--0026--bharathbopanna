@@ -17,3 +17,24 @@ PyTorch is an optimized tensor processing library primarily used for Deep Learni
 
 
 <div align='center'><img src="https://i.ytimg.com/vi/U-SBY9eJ-xc/maxresdefault.jpg" width=900></div>
+
+
+
+
+
+OUTPUTS:
+<img width="376" height="789" alt="o4" src="https://github.com/user-attachments/assets/e67dd23d-dde8-4da4-84fa-ab3169
+<img width="647" height="746" alt="o5" src="https://github.com/user-attachments/assets/84cd9826-adec-443e-b573-dbbb6cdc269c" />
+
+outputs for example1 :
+<img width="1133" height="584" alt="o1" src="https://github.com/user-attachments/assets/6ce25460-18c9-4306-9ce8-d876c57e3dac" />
+example2:
+<img width="1142" height="587" alt="o2" src="https://github.com/user-attachments/assets/cbfd5ba7-f3a4-4958-b003-ba12b0422672" />
+example3:
+<img width="1168" height="612" alt="o3" src="https://github.com/user-attachments/assets/792ec76c-77a7-4b64-986c-33e86d432396" />
+
+
+
+b56d0c" />
+
+
